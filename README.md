@@ -5,3 +5,5 @@ Estado del proyecto: en construccion
 para ejecutar el sistema debes ponder:
 
 ```npm install react```
+
+sistema de regsitro 2
